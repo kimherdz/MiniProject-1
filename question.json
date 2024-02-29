@@ -57,7 +57,7 @@
 
         {"question": "Which of the following champions is known for their invisibility abilities?",
         "options": ["Riven", "Vayne", "Shaco", "Malzahar"],
-        "answer": "Summoner's Rift"
+        "answer": "Shaco"
         },
 
         {"question": "What is the name of the river that runs through Summoner's Rift?",
@@ -92,7 +92,7 @@
 
         {"question": "Which of the following items is used to clear enemy vision wards?",
         "options": ["Eye of Discretion", "Plague Control", "Oracle Lens", "Shadow Detector"],
-        "answer": "Summoner's Rift"
+        "answer": "Oracle Lens"
         },
 
         {"question": "Which of the following roles typically plays in the bottom lane (bot)?",
