@@ -1,0 +1,80 @@
+@import url("https://use.typekit.net/lhh6opj.css");
+
+body {
+    font-family: "quicksand", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: medium;
+    background-color: #ee911f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: "quicksand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #ee911f;
+    font-size: 60px;
+    text-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.container {
+    color: #FFFFFF;
+    font-size: large; 
+    width: 90%;
+    height: auto;
+    max-width: 1000px;
+    padding: 5%;
+    align-items: center;
+    justify-content: center;
+    background-color: #E9014B;
+    border-radius: 20px;
+    flex-direction: column;
+    display: flex;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3);
+
+}
+
+#question-container {
+    font-family: "quicksand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+}
+
+#score-container {
+    display: inline-block;
+    font-family: "quicksand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    color: #E9014B;
+    background-color: #ee911f;
+    padding: 15px; 
+    margin: 10px auto;
+    border-radius: 50px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+#options-container button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #e15c15;
+    color: #FFFFFF;
+    border-radius: 50px;
+    border: none;
+    font-family: "quicksand", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+#options-container button:hover {
+    color: #FFFFFF;
+    background-color: #E53612;
+}
