@@ -1,0 +1,103 @@
+{"questions":
+    [
+        {"question": "Which of the following champions is known for being a jungler?",
+        "options": ["Ahri", "Lee Sin", "Jinx", "Yasuo"],
+        "answer": "Lee Sin"
+        },
+
+        {"question": "What is the name of the main map in League of Legends?",
+        "options": ["Support", "Top", "Mid", "Jungle"],
+        "answer": "Support"
+        },
+
+        {"question": "What is the primary objective of Summoner's Rift?",
+        "options": ["Destroy the enemy nexus", "Get more kills", "Collect gold", "Gain more experience"],
+        "answer": "Destroy the enemy nexus"
+        },
+
+        {"question": "Who is the champion most known for their healing abilities?",
+        "options": ["Zed", "Janna", "Darius", "Yasuo"],
+        "answer": "Janna"
+        },
+
+        {"question": "Which of the following items is essential for melee attack-oriented champions?",
+        "options": ["Void Staff", "Infinity Edge", "Archangel's Staff", "Negatron Cloak"],
+        "answer": "Infinity Edge"
+        },
+
+        {"question": "What is Yasuo's primary resource?",
+        "options": ["Mana", "Fury", "Energy", "Flow"],
+        "answer": "Flow"
+        },
+
+        {"question": "What is the annual championship of League of Legends that gathers the world's best teams?",
+        "options": ["Summoner's Cup", "Worlds", "League Tournament", "Epic Showdown"],
+        "answer": "Worlds"
+        },
+
+        {"question": "What is the main function of Baron Nashor in the game?",
+        "options": ["Provide map vision", "Enhance team skills", "Grant additional gold", "Strengthen minion waves"],
+        "answer": "Strengthen minion waves"
+        },
+
+        {"question": "What does the term 'smite' mean in League of Legends?",
+        "options": ["Steal gold from the enemy", "Heal an ally", "Deal massive instant damage", "Escape quickly"],
+        "answer": "Deal massive instant damage"
+        },
+
+        {"question": "Which of the following champions is a Yordle?",
+        "options": ["Garen", "Teemo", "Fiora", "Viktor"],
+        "answer": "Teemo"
+        },
+
+        {"question": "What is the name of the ranking system in League of Legends?",
+        "options": ["Influence Points", "Summoner's Division", "Summoner's League", "Champion Hierarchy"],
+        "answer": "Summoner's League"
+        },
+
+        {"question": "Which of the following champions is known for their invisibility abilities?",
+        "options": ["Riven", "Vayne", "Shaco", "Malzahar"],
+        "answer": "Summoner's Rift"
+        },
+
+        {"question": "What is the name of the river that runs through Summoner's Rift?",
+        "options": ["Freljord River", "Ionian River", "Noxian River", "Demacian River"],
+        "answer": "Ionian River"
+        },
+
+        {"question": "Which of the following champions is a long-range marksman (ADC)?",
+        "options": ["Jinx", "Renekton", "LeBlanc", "Zac"],
+        "answer": "Jinx"
+        },
+
+        {"question": "What role does the elemental dragon play on Summoner's Rift?",
+        "options": ["Provide global gold", "Enhance team stats", "Unlock new abilities", "Supply items"],
+        "answer": "Enhance team stats"
+        },
+
+        {"question": "Which of the following items is a core item for magic damage champions?",
+        "options": ["Infinity Edge", "Negatron Cloak", "Rabadon's Deathcap", "Ravenous Hydra"],
+        "answer": "Rabadon's Deathcap"
+        },
+
+        {"question": "What is Lee Sin's ultimate ability?",
+        "options": ["Barrier", "Void Call", "Sonic Wave", "Resonating Strike"],
+        "answer": "Resonating Strike"
+        },
+
+        {"question": "What position is known as 'mid' in League of Legends?",
+        "options": ["Top", "Middle", "Bottom", "Jungle"],
+        "answer": "Middle"
+        },
+
+        {"question": "Which of the following items is used to clear enemy vision wards?",
+        "options": ["Eye of Discretion", "Plague Control", "Oracle Lens", "Shadow Detector"],
+        "answer": "Summoner's Rift"
+        },
+
+        {"question": "Which of the following roles typically plays in the bottom lane (bot)?",
+        "options": ["Support", "Top", "Mid", "Jungle"],
+        "answer": "Support"
+        }
+    ]
+}
